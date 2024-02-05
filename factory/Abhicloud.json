@@ -1,0 +1,9 @@
+{
+	"name": "Abhicloud",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b653ef58-1599-46fe-b206-60964c01dc7c",
+		"tenantId": "5cdc5b43-d7be-4caa-8173-729e3b0a62d9"
+	}
+}
